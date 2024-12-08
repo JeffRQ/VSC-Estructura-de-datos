@@ -1,0 +1,14 @@
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\bin\Debug\net9.0\UNIDAD 1.exe
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\bin\Debug\net9.0\UNIDAD 1.deps.json
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\bin\Debug\net9.0\UNIDAD 1.runtimeconfig.json
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\bin\Debug\net9.0\UNIDAD 1.dll
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\bin\Debug\net9.0\UNIDAD 1.pdb
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\obj\Debug\net9.0\UNIDAD 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\obj\Debug\net9.0\UNIDAD 1.AssemblyInfoInputs.cache
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\obj\Debug\net9.0\UNIDAD 1.AssemblyInfo.cs
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\obj\Debug\net9.0\UNIDAD 1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\obj\Debug\net9.0\UNIDAD 1.dll
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\obj\Debug\net9.0\refint\UNIDAD 1.dll
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\obj\Debug\net9.0\UNIDAD 1.pdb
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\obj\Debug\net9.0\UNIDAD 1.genruntimeconfig.cache
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\UNIDAD 1\obj\Debug\net9.0\ref\UNIDAD 1.dll

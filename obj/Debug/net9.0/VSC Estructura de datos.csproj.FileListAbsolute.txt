@@ -1,0 +1,4 @@
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\obj\Debug\net9.0\VSC Estructura de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\obj\Debug\net9.0\VSC Estructura de datos.AssemblyInfoInputs.cache
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\obj\Debug\net9.0\VSC Estructura de datos.AssemblyInfo.cs
+C:\Users\ASUS VIVOBOOK PRO 15\OneDrive\UNIVERSIDAD ESTATAL AMAZONICA\Semestre 3\1. ESTRUCTURA DE DATOS (A)\VSC Estructura de datos\obj\Debug\net9.0\VSC Estructura de datos.csproj.CoreCompileInputs.cache
