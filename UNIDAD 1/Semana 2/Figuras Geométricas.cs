@@ -137,4 +137,3 @@ namespace FigurasGeometricas
         }
     }
 }
-
